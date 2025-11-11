@@ -63,7 +63,7 @@
   <a href="https://facebook.com/arlif.thongrakjan.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_IG_USERNAME" target="_blank">
+  <a href="https://instagram.com/arlifzs2006" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
