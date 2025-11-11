@@ -45,8 +45,13 @@
 ### 📊 สถิติ GitHub ของผม
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NTZ9008&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTZ9008&layout=compact&theme=tokyonight" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NTZ9008&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTZ9008&layout=compact&theme=tokyonight" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NTZ9008&theme=tokyonight" />
+  <img src="https://activity-graph.vercel.app/graph?username=NTZ9008&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +63,10 @@
     <img src="https://img.shields.io/badge/Hotmail-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://facebook.com/arlif.thongrakjan.2025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_IG_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
