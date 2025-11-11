@@ -48,8 +48,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NTZ9008&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTZ9008&layout=compact&theme=tokyonight" />
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NTZ9008&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTZ9008&layout=compact&theme=tokyonight" />
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NTZ9008&theme=tokyonight" />
   <img src="https://activity-graph.vercel.app/graph?username=NTZ9008&theme=tokyonight" />
 </p>
