@@ -66,13 +66,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NTZ9008&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTZ9008&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-</p>
-<p>
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=NTZ9008&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-</p>
-<p>
   <img width="100%" src="https://activity-graph.vercel.app/graph?username=NTZ9008&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </p>
 
