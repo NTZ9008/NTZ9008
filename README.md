@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Arlif!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Digital+Science+Student;Full-Stack+Developer;Network+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Digital+Science+Student;Full-Stack+Developer;Network+Engineer;Always+Learning..." alt="Typing SVG" />
 </a>
 
 <p>
