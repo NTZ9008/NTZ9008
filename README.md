@@ -66,7 +66,7 @@
 
 ### 🏆 Featured Projects
 
-#### 1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)
+<div>1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)</div>
 > *A production-grade mail server running on a home Mini PC, overcoming ISP Port 25 blocking and CGNAT.*
 
 <p>
@@ -83,7 +83,7 @@
 
 <br>
 
-#### 2. 🛡️ Cloud-Based Secure DNS Infrastructure
+<div>2. 🛡️ Cloud-Based Secure DNS Infrastructure</div>
 > *A centralized DNS filtering system deployed on Cloud Infrastructure.*
 
 <p>
@@ -97,7 +97,7 @@
 
 <br>
 
-#### 3. 👕 Kai Shirt E-Commerce Platform
+<div>3. 👕 Kai Shirt E-Commerce Platform</div>
 > *A Full-Stack web application for an online clothing store.*
 
 <p>
@@ -112,7 +112,7 @@
 
 <br>
 
-#### 4. 📦 Flash Express Database Design (Case Study)
+<div>4. 📦 Flash Express Database Design (Case Study)</div>
 > *Scalable database schema design for logistics business.*
 
 <p>
