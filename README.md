@@ -79,7 +79,7 @@
 
 * **Architecture:** Designed a Hybrid Cloud-Premise topology. Used **Tailscale** to tunnel traffic from an Oracle Cloud VPS to a local Mini PC.
 * **Key Achievement:** Successfully configured **SMTP Relay (Brevo)** to bypass ISP Port 25 blocking, achieving 100% email deliverability.
-* [**View Project Repository »**](LINK_TO_YOUR_MAIL_REPO)
+* [**View Project Repository »**](https://github.com/NTZ9008/Mail-Server.git)
 
 <br>
 
