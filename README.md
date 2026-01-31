@@ -64,9 +64,9 @@
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Featured Projects
 
-#### 📧 Hybrid Self-Hosted Mail Server (Home Lab)
+#### 1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)
 > *A production-grade mail server running on a home Mini PC, overcoming ISP Port 25 blocking and CGNAT.*
 
 <p>
@@ -77,10 +77,51 @@
   <img src="https://img.shields.io/badge/Brevo-SMTP_Relay-green?style=flat-square" />
 </p>
 
-* **Architecture:** Hybrid Cloud-Premise Topology using VPN Tunneling.
-* **Key Achievement:** Successfully bypassed standard residential ISP restrictions to achieve 100% email deliverability.
-* **Tech Stack:** Docker, Ubuntu Server, Cloudflare DNS, Brevo Relay.
-* [**View Project Repository »**]([LINK_TO_YOUR_NEW_REPO_HERE](https://github.com/NTZ9008/Mail-Server))
+* **Architecture:** Designed a Hybrid Cloud-Premise topology. Used **Tailscale** to tunnel traffic from an Oracle Cloud VPS to a local Mini PC.
+* **Key Achievement:** Successfully configured **SMTP Relay (Brevo)** to bypass ISP Port 25 blocking, achieving 100% email deliverability.
+* [**View Project Repository »**](LINK_TO_YOUR_MAIL_REPO)
+
+<br>
+
+#### 2. 🛡️ Cloud-Based Secure DNS Infrastructure
+> *A centralized DNS filtering system deployed on Cloud Infrastructure.*
+
+<p>
+  <img src="https://img.shields.io/badge/Pi--hole-DNS_Filter-red?style=flat-square&logo=pi-hole" />
+  <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=flat-square&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/Cloudflare-Reverse_Proxy-F38020?style=flat-square&logo=cloudflare" />
+</p>
+
+* **Implementation:** Deployed Pi-hole on an **Oracle Cloud Instance (OCI)** to block unwanted traffic and ads.
+* **Security:** Configured **Cloudflare** as a reverse proxy for DDoS protection and managed OCI VCN firewall rules (Ingress/Egress).
+
+<br>
+
+#### 3. 👕 Kai Shirt E-Commerce Platform
+> *A Full-Stack web application for an online clothing store.*
+
+<p>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square&logo=jsonwebtokens" />
+</p>
+
+* **Features:** Built a complete shopping experience with inventory management.
+* **Technical Highlights:** Implemented secure authentication using **JWT & bcrypt**, and solved Cross-Origin Resource Sharing (CORS) issues for seamless API communication.
+
+<br>
+
+#### 4. 📦 Flash Express Database Design (Case Study)
+> *Scalable database schema design for logistics business.*
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Database-Normalization-orange?style=flat-square" />
+</p>
+
+* **Analysis:** Analyzed logistics business models to design an efficient ER Diagram.
+* **Optimization:** Applied **Normalization** techniques to minimize data redundancy and optimized SQL queries for performance.
 
 ---
 
