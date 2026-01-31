@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Arlif!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Digital+Science+Student;Full-Stack+Developer;Network+Engineer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Digital+Science+Student;Full-Stack+Developer;SysAdmin+Enthusiast;Home+Lab+Builder..." alt="Typing SVG" />
 </a>
 
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  I have a strong passion for <strong>Web Application Development</strong>, <strong>Database Design</strong>, and <strong>Server Administration</strong>. <br>
+  I have a strong passion for <strong>Web Application Development</strong>, <strong>System Administration</strong>, and <strong>Cloud Architecture</strong>. <br>
   Currently, I am focusing on honing my skills in <strong>Full-Stack Development</strong> and <strong>Network Security</strong>, <br>with a goal to collaborate on impactful projects and continuously evolve in this field.
 </p>
 
@@ -36,12 +36,14 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-<p><strong>Network & Infrastructure</strong></p>
+<p><strong>Network, Cloud & DevOps</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-18181B?style=for-the-badge&logo=tailscale&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p><strong>Databases & Concepts</strong></p>
@@ -56,9 +58,29 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
+
+---
+
+### 🏆 Featured Project
+
+#### 📧 Hybrid Self-Hosted Mail Server (Home Lab)
+> *A production-grade mail server running on a home Mini PC, overcoming ISP Port 25 blocking and CGNAT.*
+
+<p>
+  <img src="https://img.shields.io/badge/Mailcow-Dockerized-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Postfix-MTA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailscale-Tunneling-black?style=flat-square&logo=tailscale" />
+  <img src="https://img.shields.io/badge/Oracle_VPS-Gateway-red?style=flat-square&logo=oracle" />
+  <img src="https://img.shields.io/badge/Brevo-SMTP_Relay-green?style=flat-square" />
+</p>
+
+* **Architecture:** Hybrid Cloud-Premise Topology using VPN Tunneling.
+* **Key Achievement:** Successfully bypassed standard residential ISP restrictions to achieve 100% email deliverability.
+* **Tech Stack:** Docker, Ubuntu Server, Cloudflare DNS, Brevo Relay.
+* [**View Project Repository »**]([LINK_TO_YOUR_NEW_REPO_HERE](https://github.com/NTZ9008/Mail-Server))
 
 ---
 
