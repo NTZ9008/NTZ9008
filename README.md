@@ -62,11 +62,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+</div>
+
 ---
 
 ### 🏆 Featured Projects
 
-<div>1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)</div>
+#### 1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)
 > *A production-grade mail server running on a home Mini PC, overcoming ISP Port 25 blocking and CGNAT.*
 
 <p>
@@ -83,7 +85,7 @@
 
 <br>
 
-<div>2. 🛡️ Cloud-Based Secure DNS Infrastructure</div>
+#### 2. 🛡️ Cloud-Based Secure DNS Infrastructure
 > *A centralized DNS filtering system deployed on Cloud Infrastructure.*
 
 <p>
@@ -97,7 +99,7 @@
 
 <br>
 
-<div>3. 👕 Kai Shirt E-Commerce Platform</div>
+#### 3. 👕 Kai Shirt E-Commerce Platform
 > *A Full-Stack web application for an online clothing store.*
 
 <p>
@@ -112,7 +114,7 @@
 
 <br>
 
-<div>4. 📦 Flash Express Database Design (Case Study)</div>
+#### 4. 📦 Flash Express Database Design (Case Study)
 > *Scalable database schema design for logistics business.*
 
 <p>
@@ -124,6 +126,8 @@
 * **Optimization:** Applied **Normalization** techniques to minimize data redundancy and optimized SQL queries for performance.
 
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
