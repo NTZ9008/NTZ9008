@@ -69,7 +69,7 @@
 ### 🏆 Featured Projects
 
 #### 1. 📧 Hybrid Self-Hosted Mail Server (Home Lab)
-> *A production-grade mail server running on a home Mini PC, overcoming ISP Port 25 blocking and CGNAT.*
+> *A production-grade mail server running on a home PC Server, overcoming ISP Port 25 blocking and CGNAT.*
 
 <p>
   <img src="https://img.shields.io/badge/Mailcow-Dockerized-black?style=flat-square&logo=docker" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Brevo-SMTP_Relay-green?style=flat-square" />
 </p>
 
-* **Architecture:** Designed a Hybrid Cloud-Premise topology. Used **Tailscale** to tunnel traffic from an Oracle Cloud VPS to a local Mini PC.
+* **Architecture:** Designed a Hybrid Cloud-Premise topology. Used **Tailscale** to tunnel traffic from an Oracle Cloud VPS to a local PC Server.
 * **Key Achievement:** Successfully configured **SMTP Relay (Brevo)** to bypass ISP Port 25 blocking, achieving 100% email deliverability.
 * [**View Project Repository »**](https://github.com/NTZ9008/Mail-Server.git)
 
