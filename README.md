@@ -138,7 +138,7 @@
     <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma" />
 </p>
 
-* **Frontend (Mobile):** Developed a cross-platform application using **Flutter**, featuring a role-based UI (Buyer/Seller), offline library caching,      
+* **Frontend:** Developed a cross-platform application using **Flutter**, featuring a role-based UI (Buyer/Seller), offline library caching,      
 and built-in PDF reading and downloading capabilities.
 * **Backend & API:** Built a RESTful API with **Node.js** and **Express**, integrating **PostgreSQL** via **Prisma ORM**, JWT/Google authentication, and   
 PromptPay QR code generation for payments.
