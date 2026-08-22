@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Digital+Science+Student;Full-Stack+Developer;SysAdmin+Enthusiast;Home+Lab+Builder..." alt="Typing SVG" />
 </a>
 
+</div>
+
 <p>
   I am a <strong>Digital Science and Technology</strong> student at the <strong>Faculty of ICT, Mahidol University</strong>.
 </p>
@@ -61,8 +63,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-</div>
 
 ---
 
@@ -127,8 +127,6 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
 
 <p>
@@ -150,5 +148,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-</div>
