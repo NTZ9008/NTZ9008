@@ -125,6 +125,24 @@
 * **Analysis:** Analyzed logistics business models to design an efficient ER Diagram.
 * **Optimization:** Applied **Normalization** techniques to minimize data redundancy and optimized SQL queries for performance.
 
+<br>
+
+#### 5. E-Book Marketplace Application
+> *A full-stack digital book marketplace platform for buying, reading, and selling e-books.*
+<p>
+
+<p>
+    <img src="https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=flat-square&logo=flutter" />
+    <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql" />
+    <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma" />
+</p>
+
+* **Frontend (Mobile):** Developed a cross-platform application using **Flutter**, featuring a role-based UI (Buyer/Seller), offline library caching,      
+and built-in PDF reading and downloading capabilities.
+* **Backend & API:** Built a RESTful API with **Node.js** and **Express**, integrating **PostgreSQL** via **Prisma ORM**, JWT/Google authentication, and   
+PromptPay QR code generation for payments.
+
 ---
 
 ### 📊 GitHub Stats
